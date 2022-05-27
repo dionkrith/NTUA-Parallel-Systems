@@ -1,11 +1,13 @@
 # NTUA-Parallel-Systems
 
-Lab1: Introduction to Parallelism in Shared Memory Architectures
+In this project we had 5 different Labs. For each Lab we have:
 
-Lab2: Parallelization and Optimization of the Floyd-Warshall Algorithm in Shared Memory Architectures (using Openmp , TBBs)
+- Lab1: Introduction to Parallelism in Shared Memory Architectures
 
-Lab3: Parallel Solution of Heat Equation in Distributed Memory Architectures (using MPI)
+- Lab2: Parallelization and Optimization of the Floyd-Warshall Algorithm in Shared Memory Architectures (using Openmp , TBBs)
 
-Lab4: Parallel Programming in GPUs (using CUDA)
+- Lab3: Parallel Solution of Heat Equation in Distributed Memory Architectures (using MPI)
 
-Lab5: Synchronization Issues in Modern Multicore Systems
+- Lab4: Parallel Programming in GPUs (using CUDA)
+
+- Lab5: Synchronization Issues in Modern Multicore Systems
